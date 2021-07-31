@@ -12,15 +12,15 @@ Tools are based on context for each question.
 
 ## REQUIREMENTS :
 
-1 HADOOP  
+. HADOOP  
 
-2 PYTHON
+. PYTHON
 
-3 HIVE
+. HIVE
 
-4 HDFS
+. HDFS
 
-5 Git/Github
+. Git/Github
 
 
 ## PROBLEM STATEMENTS:
