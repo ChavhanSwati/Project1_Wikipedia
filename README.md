@@ -12,7 +12,7 @@ Tools are based on context for each question.
 
 ## REQUIREMENTS :
 
-1 HADOOP
+1 HADOOP                                                                                                                                                                          . PYTHON
 2 PYTHON
 3 HIVE
 4 HDFS
