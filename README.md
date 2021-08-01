@@ -6,7 +6,8 @@ BY Swati Chavhan
 ## INTRODUCTION :
 
 This analysis consists of using Big Data tools to answer the question about datasets from Wikipedia.
-Tools are based on context for each question.
+There are a series of analysis questions, answered using Hive and MapReduce. 
+Tools used are based on context for each question.
 
 
 
@@ -18,7 +19,9 @@ Tools are based on context for each question.
 
 . HIVE
 
-. HDFS
+. HDFS                                                                                                                                                                                 
+. MapReduce                                                                                                                                                                      
+. YARN
 
 . Git/Github
 
@@ -35,5 +38,8 @@ Tools are based on context for each question.
  
  ### Question 3:
   What series of wikipedia article , starting with Hotel california , keeps the largest fraction of the readers clicking on internal link?
+ 
+ ### Question 4:
+  Find an example of an English wikipedia article that is relatively more popular in the Americas than elsewhere.
 
 
