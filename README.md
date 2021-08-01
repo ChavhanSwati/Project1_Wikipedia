@@ -19,9 +19,14 @@ Tools used are based on context for each question.
 
 . HIVE
 
-. HDFS                                                                                                                                                                                 
-. MapReduce                                                                                                                                                                      
+. HDFS
+
+
+. MapReduce
+
+
 . YARN
+
 
 . Git/Github
 
